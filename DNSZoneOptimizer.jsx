@@ -593,7 +593,7 @@ _dmarc.yoursite.com.\t1\tIN\tTXT\t"v=DMARC1; p=none; rua=mailto:..."`;
         
         {/* Footer info */}
         <footer className="border-t border-slate-800 pt-6 text-center text-slate-500 text-xs flex justify-between items-center">
-            <span>Secure Symbiosis Initiative &copy; 2025</span>
+            <span>By ID ArtCraft / Igor Dunaev / Google &copy; 2025</span>
             <div className="flex gap-4">
                 <span className="flex items-center gap-1"><div className="w-2 h-2 rounded-full bg-green-500"></div> System Operational</span>
                 <span className="flex items-center gap-1"><div className="w-2 h-2 rounded-full bg-cyan-500"></div> API Connected</span>

